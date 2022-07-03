@@ -10,7 +10,6 @@ Hello everyone, today we are going to discuss some of the most common ensemble m
 *   Xgboost Classifier
 *   KNeighbors Classifier
 *   GaussianNB Classifier
-*   Random Forest Classifier
 *   Logistic Regression
 
 The goal of ensemble methods is to combine the predictions of several base estimators built with a given learning algorithm in order to improve generalizability. 
